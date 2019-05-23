@@ -1,0 +1,4 @@
+*.pyc
+venv/
+istio-1.1.3
+.vscode/

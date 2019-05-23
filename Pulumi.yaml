@@ -1,0 +1,3 @@
+name: pulumi-k8s-py-helm-istio
+runtime: python
+description: AWS EKS Pulumi Stack
